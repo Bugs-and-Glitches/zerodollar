@@ -1,0 +1,9 @@
+.BGhome {
+    background-color: #e5e5f7;
+
+    /* opacity: 0.5; */
+
+    background-image: radial-gradient(#404046 0.9500000000000001px, #e5e5f7 0.9500000000000001px);
+    background-size: 19px 19px;
+    height: 100vh;
+}
